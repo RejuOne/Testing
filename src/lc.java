@@ -25,4 +25,5 @@ public class lc {
         return new int[]{index1,index2};
     }
 
+// adding comment
 }
